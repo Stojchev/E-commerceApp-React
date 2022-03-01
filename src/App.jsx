@@ -9,6 +9,7 @@ import Register from "./pages/Register";
 import Cart from "./pages/Cart";
 import Products from "./components/Products";
 
+
 const App = () => {
   return <>
   <Router>    
